@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\POO261n\\Revisao\\Revisao.csproj",
+      "projectUniqueName": "C:\\Users\\aluno\\Documents\\POO\\Revisao\\Revisao.csproj",
       "projectName": "Revisao",
-      "projectPath": "D:\\POO261n\\Revisao\\Revisao.csproj",
+      "projectPath": "C:\\Users\\aluno\\Documents\\POO\\Revisao\\Revisao.csproj",
       "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-      "outputPath": "D:\\POO261n\\Revisao\\obj\\",
+      "outputPath": "C:\\Users\\aluno\\Documents\\POO\\Revisao\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
