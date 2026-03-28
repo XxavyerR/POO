@@ -1,0 +1,23 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace AgregacaoTrabalho
+{
+    public class Vendedor
+    {
+        public double comissao;
+
+        public void CalcularComissao()
+        {
+            comissao += valorVenda * 0.02;
+        }
+        public void MostrarAtributos()
+        {
+            Console.WriteLine(
+                "Comissão R$:" + comissao
+            );
+        }
+    }
+}
