@@ -1,0 +1,15 @@
+C:\Users\xguil\Documents\POO\AgregacaoTrabalho\obj\Debug\net8.0\AgregacaoTrabalho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xguil\Documents\POO\AgregacaoTrabalho\obj\Debug\net8.0\AgregacaoTrabalho.AssemblyInfoInputs.cache
+C:\Users\xguil\Documents\POO\AgregacaoTrabalho\obj\Debug\net8.0\AgregacaoTrabalho.AssemblyInfo.cs
+C:\Users\xguil\Documents\POO\AgregacaoTrabalho\obj\Debug\net8.0\AgregacaoTrabalho.csproj.CoreCompileInputs.cache
+C:\Users\xguil\Documents\POO\AgregacaoTrabalho\obj\Debug\net8.0\AgregacaoTrabalho.sourcelink.json
+C:\Users\xguil\Documents\POO\AgregacaoTrabalho\bin\Debug\net8.0\AgregacaoTrabalho.exe
+C:\Users\xguil\Documents\POO\AgregacaoTrabalho\bin\Debug\net8.0\AgregacaoTrabalho.deps.json
+C:\Users\xguil\Documents\POO\AgregacaoTrabalho\bin\Debug\net8.0\AgregacaoTrabalho.runtimeconfig.json
+C:\Users\xguil\Documents\POO\AgregacaoTrabalho\bin\Debug\net8.0\AgregacaoTrabalho.dll
+C:\Users\xguil\Documents\POO\AgregacaoTrabalho\bin\Debug\net8.0\AgregacaoTrabalho.pdb
+C:\Users\xguil\Documents\POO\AgregacaoTrabalho\obj\Debug\net8.0\AgregacaoTrabalho.dll
+C:\Users\xguil\Documents\POO\AgregacaoTrabalho\obj\Debug\net8.0\refint\AgregacaoTrabalho.dll
+C:\Users\xguil\Documents\POO\AgregacaoTrabalho\obj\Debug\net8.0\AgregacaoTrabalho.pdb
+C:\Users\xguil\Documents\POO\AgregacaoTrabalho\obj\Debug\net8.0\AgregacaoTrabalho.genruntimeconfig.cache
+C:\Users\xguil\Documents\POO\AgregacaoTrabalho\obj\Debug\net8.0\ref\AgregacaoTrabalho.dll

@@ -7,17 +7,26 @@ namespace AgregacaoTrabalho
 {
     public class Vendedor
     {
-        public double comissao;
+        private double comissao;
 
-        public void CalcularComissao()
+        public void setComissao(double valor)
+        {
+            comissao = valor;
+        }
+
+        public double GetComissao()
+        {
+            return comissao;
+        }
+
+        public void CalcularComissao(double valorVenda)
         {
             comissao += valorVenda * 0.02;
         }
+
         public void MostrarAtributos()
         {
-            Console.WriteLine(
-                "Comissão R$:" + comissao
-            );
+            Console.WriteLine("Comissão R$:" + comissao);
         }
     }
 }

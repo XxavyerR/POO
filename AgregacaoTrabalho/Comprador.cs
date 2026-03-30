@@ -7,8 +7,26 @@ namespace AgregacaoTrabalho
 {
     public class Comprador
     {
-        public double verba;
+        private double verba;
 
-        public void DiminuirVerba()
+        public void setVerba(double valor)
+        {
+            verba = valor;
+        }
+
+        public double GetVerba()
+        {
+            return verba;
+        }
+
+        public void DiminuirVerba(double valor)
+        {
+            verba -= valor;
+        }
+
+        public void MostrarAtributos()
+        {
+            Console.WriteLine("Verba restante R$:" + verba);
+        }
     }
 }
