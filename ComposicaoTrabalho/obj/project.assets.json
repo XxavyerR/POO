@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aluno\\Documents\\POO\\AgregacaoTrabalho\\AgregacaoTrabalho.csproj",
-      "projectName": "AgregacaoTrabalho",
-      "projectPath": "C:\\Users\\aluno\\Documents\\POO\\AgregacaoTrabalho\\AgregacaoTrabalho.csproj",
+      "projectUniqueName": "C:\\Users\\aluno\\Documents\\POO\\ComposicaoTrabalho\\ComposicaoTrabalho.csproj",
+      "projectName": "ComposicaoTrabalho",
+      "projectPath": "C:\\Users\\aluno\\Documents\\POO\\ComposicaoTrabalho\\ComposicaoTrabalho.csproj",
       "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aluno\\Documents\\POO\\AgregacaoTrabalho\\obj\\",
+      "outputPath": "C:\\Users\\aluno\\Documents\\POO\\ComposicaoTrabalho\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
